@@ -1,0 +1,51 @@
+body {
+    background-color: pink;
+    width: 1024px;
+    text-align: center;
+}
+
+img {
+    border: 10px solid white;
+    border-radius: 4px;
+    box-shadow: 10px 10px 10px gray;
+}
+
+header a {
+    color: white;
+    background-color: pink;
+    border: 5px solid pink;
+    border-radius: 4px;
+    text-decoration: none;
+}
+
+header a:hover {
+    color: white;
+    background-color: pink;
+    border: 5px solid pink;
+    border-radius: 4px;
+    text-decoration: none;
+}
+
+a {
+    color: white;
+    background-color: chocolate;
+    border: 5px solid chocolate;
+    border-radius: 4px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+    background-color: red;
+    border: 5px solid red;
+    border-radius: 4px;
+    text-decoration: none;
+}
+
+h3 {
+    color: rgb(96, 94, 94);
+}
+
+h2 {
+    color: rgb(86, 76, 76);
+}
